@@ -19,6 +19,7 @@ ___
 
 I'm very enthusiastic and perseverance person. In free time Iike to play board games, watch movies. 
 I like improving my skills and learning something new.
+
 _____
 
 ### Skills:
@@ -54,6 +55,7 @@ ___
 
 * 2017 Nizhny Novgorod State Technical University n.a. R.E. Alekseev, Metallurgy.
 * 2021 Higher School of Economics, Marketing.
+
 _____
 
 ### English
